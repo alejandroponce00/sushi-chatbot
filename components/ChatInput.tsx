@@ -1,4 +1,4 @@
-
+'use client';
 
 import { Send } from 'lucide-react';
 import { Button } from '@/components/ui/button';
