@@ -78,13 +78,13 @@ sushi-chatbot/
 A continuación, se muestran algunas capturas de pantalla que ilustran el funcionamiento de la aplicación:  
 
 1. **Interfaz principal:**  
-   ![Interfaz principal](./capturas/interfaz-principal.png)  
+   ![Interfaz principal](./capturas/3.jpg)  
 
 2. **Menú mostrado por el chatbot:**  
-   ![Menú del chatbot](./capturas/4<>,jpg)  
+   ![Menú del chatbot](./capturas/4.jpg)  
 
 3. **Realización de un pedido:**  
-   ![Pedido de sushi](./capturas/1,jpg)  
+   ![Pedido de sushi](./capturas/1.jpg)  
 
 4. **Guardado en Base de datos**  
    ![Respuesta a preguntas frecuentes](./capturas/4.jpg)  
