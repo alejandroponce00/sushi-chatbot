@@ -81,7 +81,7 @@ A continuación, se muestran algunas capturas de pantalla que ilustran el funcio
    ![Interfaz principal](./capturas/3.jpg)  
 
 2. **Menú mostrado por el chatbot:**  
-   ![Menú del chatbot](./capturas/4.jpg)  
+   ![Menú del chatbot](./capturas/menu.jpg)  
 
 3. **Realización de un pedido:**  
    ![Pedido de sushi](./capturas/1.jpg)  
