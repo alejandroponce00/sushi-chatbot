@@ -51,18 +51,18 @@ sushi-chatbot/
 
 4. Ejecuta el servidor del backend:  
    ```bash
-   npm start
+   npm runserver
    ```  
 
 5. Instala las dependencias para el frontend:  
    ```bash
-   cd ../frontend
+  
    npm install
    ```  
 
 6. Inicia el servidor del frontend:  
    ```bash
-   npm start
+   npm run dev
    ```  
 
 ## 💻 Uso del Chatbot  
@@ -96,6 +96,14 @@ A continuación, se muestran algunas capturas de pantalla que ilustran el funcio
 
 - **¿Puedo usar otras tecnologías?**  
   Este proyecto utiliza Node.js, MongoDB y React como stack base, pero puedes adaptarlo para incorporar más tecnologías.  
+
+- **¿Cómo se inicia el frontend?**
+  abre una consola en el proyecto abierto en vscode e ingresa "npm rundev"
+
+  - **¿Cómo se inicia el servidor?**
+  abre otra consola en el proyecto abierto en vscode e ingresa "npm runserver",luego
+  en el terminal(macos) o CMD(windows) ingresa: sudo mongod --dbpath="ingresa aqui la ruta de tu servidor de mongodb".
+  como recomendacion adicional considera instalar MongoDb Compass 
 
 ## 🌐 Repositorio  
 
