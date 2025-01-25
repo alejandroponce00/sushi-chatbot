@@ -6,6 +6,7 @@ import ChatMessage from './ChatMessage';
 import ChatInput from './ChatInput';
 import { MENSAJES_BOT, procesarEntradaUsuario } from '@/lib/chatbot';
 import { Message } from '@/types';
+import { stringify } from 'node:querystring';
 
 export default function ChatInterface() {
   const [messages, setMessages] = useState<Message[]>([
@@ -44,7 +45,6 @@ export default function ChatInterface() {
           value={input}
           onChange={setInput}
           onSend={handleSendMessage}
-          disabled={isProcessing}
         />
       </div>
     </Card>
